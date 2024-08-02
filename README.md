@@ -4,7 +4,7 @@ Use the vr_sample_train.ino arduino file to train your microphone module to dete
 
 using these commands, we then alter the arduino's state, as seen within the LightSwitch.ino file. 
 
-************************************** DEMO VIDEO BELOW **************************************
+************************************** DEMO VIDEO BELOW ***************************************
 
 https://dgraham3532.github.io//Voice-Activated-Light-Switch-Arduino-Project/LightSwitchDemoVideo.mp4
 
