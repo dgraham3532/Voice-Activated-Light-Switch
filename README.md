@@ -6,6 +6,6 @@ using these commands, we then alter the arduino's state, as seen within the Ligh
 
 ************************************** DEMO VIDEO BELOW ***************************************
 
-https://dgraham3532.github.io//Voice-Activated-Light-Switch-Arduino-Project/LightSwitchDemoVideo.mp4
+https://dgraham3532.github.io/Voice-Activated-Light-Switch/LightSwitchDemoVideo.mp4
 
 In the demo video, commands are "LUMOS" and "NOX", light commands from the Harry Potter movies. 
